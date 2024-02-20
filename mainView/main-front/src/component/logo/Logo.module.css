@@ -1,0 +1,8 @@
+.logo {
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-top: 1%;
+    color: white;
+    user-select: none;
+}

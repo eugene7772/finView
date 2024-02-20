@@ -1,0 +1,16 @@
+.searchBtn {
+    color: gray;
+    font-size: 28px;
+    width: 1000px;
+    height: 100px;
+    border-radius: 20px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    background: #171616;
+    cursor: pointer;
+    transition: all 0.5s linear;
+    position: relative;
+    display: inline-block;
+    margin-left: 470px;
+    margin-top: 150px;
+}
